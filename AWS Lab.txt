@@ -1,0 +1,42 @@
+Lab 01: Create AWS account - Done
+Lab 02: Create EC2 Instance without key pair- done
+Lab 03: Create EC2 Instance with key pair- done 
+Lab 04: Create EC2 Instance existing key pair- done 
+Lab 05: Create EC2 Instance with key pair and perform the below operation- done 
+A. Stop
+B. Start
+C. Restart
+D. Terminate/Delete
+Administrator- username
+J9%xa!)sQJvXpIzZMqP2Yh%JpxM-O$H&
+lab 08: Create a linux machine and try to access it - Done
+Lab 09: Convert .pem file to ppk file
+Lab 10: Add the users in IIM
+Lab 11: Add the user group in IIM
+lab 12: Assign the policy to IAM user
+Lab 13: Add the multiple user and multiple user group
+Lab 14: Add the MFA to the user
+Lab 15: Add user into the user group
+Lab 16: providing access to other user in AWS Consol
+Lab 17: Create S3 bucket in AWS consol
+lab 18: Create a folder inside a S3 Bucket
+Lab 19: upload the file in S3 Bucket
+Lab 20: Upload the date in folder
+Lab 21: empty the S3 Bucklet
+Lab 22: Delete all the files & folder in S3 Bucket
+Lab 23: Create the security group- done
+Lab 24: Create a volume- done
+Lab 25: Create a snapshot for EC2 VM- done 
+lab 26: Create a snapshot of volume- done
+Lab 27: Create all 3 types of placement groups- done 
+lab 28: Create all three types of Load Balancers (Application,Network,Gateway) - Done.
+Lab 29: Create the cloudFront - Done.
+Lab 30: Create Amazon Kinesis - Done.
+Lab 31: Create a mariaDB - Done. (free trial)
+Lab 32: create Oracle DB in AWS.
+Lab 33: create Amazon Aurora DB in AWS.
+Lab 34: create Microsoft SQL Server DB in AWS.
+Lab 35: create PostgreSQL DB in AWS.
+Lab 36: create MySQL DB in AWS.
+Lab 37: Create a Redshift clusters. -Done.
+
